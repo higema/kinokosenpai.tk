@@ -1,36 +1,5 @@
 
 
-.pagetop {
-}
-
-.pagetop-btn {
-  width: 40px;
-  height: 40px;
-  background: #333;
-  border-radius: 3px;
-  position: fixed;
-  right: 30px;
-  bottom: 30px;
-  transition: .8s;
-  
-}
-
-.pagetop-btn:hover {
-  opacity: .8;
-}
-
-.pagetop-btn::before {
-  content: '';
-  width: 18px;
-  height: 18px;
-  border-right: 2px solid #eee;
-  border-top: 2px solid #eee;
-  position: absolute;
-  top: 15px;
-  left: 10px;
-  z-index: 1;
-  transform: rotate(-45deg)
-}
 
 
 /*
