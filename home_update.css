@@ -47,7 +47,15 @@ a.btn-solid-gold:hover {
   border-left: 4px solid #ffed8b;
 }
 
-
+/* シンプル囲み枠 2*/
+.kakomi-box2 {
+ margin: 2em auto;
+ padding: 1em;
+ width: 90%;
+ color: #666; /* 文字色 */
+ background-color: #f7f7f7; /* 背景色 */
+ border: 1px solid #ccc; /* 枠線 */
+}
 
 .pagetop {
 }
